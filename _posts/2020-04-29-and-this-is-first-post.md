@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Blog built via Jekyll!"
 date: 2020-04-29 17:21:00 +0300
 categories: [blog, github]
 tags: [first, blog]
 by: Serafin
+author: Serafin
 ---
 
 # Welcome
