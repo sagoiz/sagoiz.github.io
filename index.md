@@ -1,5 +1,9 @@
 ## Welcome to My GitHub Page - agoiz.tech
 
+***
+[link to my posts](_posts/2020-04-29-and-this-is-first-post.md)
+***
+
 You can use the [editor on GitHub](https://github.com/sagoiz/sagoiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
