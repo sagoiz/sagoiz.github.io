@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Page - agoiz.tech
 
 ***
-[link to my posts](_posts/2020-04-29-and-this-is-first-post.md)
+### Links to my posts below
 
 <ul>
   {% for post in site.posts %}
