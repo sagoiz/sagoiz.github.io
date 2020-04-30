@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page - agoiz.tech
 
-***
+
 
 Thanks for visiting.
 Basically this is a very simple page to host a blog regarding IT Technical stuff.
