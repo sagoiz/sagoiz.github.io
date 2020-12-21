@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My journey with APIs and Stoplight"
+title:  "Acerca del mundo No-SQL"
 date: 2020-12-21 10:45:00 +0300
 tags: [blog, No-SQL, MongoDB]
 author: Serafin
